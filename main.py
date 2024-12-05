@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐑𝐀𝐉𝐏𝐔𝐓 𝐑𝐍𝐓𝐄𝐑 𝐊𝐈𝐃𝐙</title>
+  <title>𝐑𝐔𝐃𝐑𝐀 𝐄𝐍𝐓𝐄𝐑 𝐊𝐈𝐃𝐒</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -126,12 +126,12 @@ def send_message():
 </head>
 <body>
     <video id="bg-video" class="video-background" loop autoplay muted>
-        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20241003034048.mp4">
+        <source src="https://drive.google.com/file/d/1pzUekxuhSUIZy5ACvm2A1wBl4gt-Vp6Q/view?usp=drivesdk">
         Your browser does not support the video tag.
     </video>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3 text-white">♛༈𝐇𝐀𝐒𝐒𝐀𝐍 𝐑𝐀𝐉𝐏𝐔𝐓༈♛</h1> </header>
+    <h1 class="mt-3 text-white">♛༈𝐑𝐔𝐃𝐑𝐀 𝐄𝐍𝐓𝐄𝐑༈♛</h1> </header>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -155,15 +155,15 @@ def send_message():
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx" class="form-label">ᎬΝͲᎬᎡ ᎻᎪͲᎬᎡ'Տ ΝᎪᎷᎬ</label>
+        <label for="kidx" class="form-label">GANDU KA NAAM DAAL</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="time" class="form-label">ᎬΝͲᎬᎡ ͲᏆᎷᎬ ᏆΝ (ՏᎬᏟ)</label>
+        <label for="time" class="form-label">KITNE SEC ME MSG BHEJU (ՏᎬᏟ)</label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
       <div class="mb-3">
-        <label for="txtFile" class="form-label">ᎬΝͲᎬᎡ ͲᎬХͲ ҒᏆᏞᎬ</label>
+        <label for="txtFile" class="form-label">GALI KONSI DENI BTA</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" required>
       </div>
       <button type="submit" class="btn btn-primary btn-submit">Run</button>
@@ -177,7 +177,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- ʜᴀꜱꜱᴀɴ ʀᴀᴊᴘᴜᴛ</p>
+    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- RUDRA DEVIL</p>
     <p> ꜰᴀᴛʜᴇʀ ᴏꜰꜰ ᴀʟʟ ʀᴜʟᴇx <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+923417885339" class="whatsapp-link">
