@@ -126,7 +126,7 @@ def send_message():
 </head>
 <body>
     <video id="bg-video" class="video-background" loop autoplay muted>
-        <source src="https://drive.google.com/file/d/1pzUekxuhSUIZy5ACvm2A1wBl4gt-Vp6Q/view?usp=drivesdk">
+        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20241003034048.mp4">
         Your browser does not support the video tag.
     </video>
 <body>
@@ -180,7 +180,7 @@ def send_message():
     <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- RUDRA DEVIL</p>
     <p> ꜰᴀᴛʜᴇʀ ᴏꜰꜰ ᴀʟʟ ʀᴜʟᴇx <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923417885339" class="whatsapp-link">
+      <a href="https://wa.me/+919050799141" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
