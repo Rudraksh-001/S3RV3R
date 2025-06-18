@@ -126,9 +126,8 @@ def send_message():
 </head>
 <body>
      <video id="bg-video" class="video-background" loop autoplay muted>
-        <source src="<div style="height: 533.33px; width: 300.00px; position:relative;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/685298ffdb317c13c1d8eab0" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>">
+        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20241003034048.mp4">
         Your browser does not support the video tag.
-    </video>
 <body>
   <header class="header mt-4">
     <h1 class="mt-3 text-white">♛༈𝗟𝗘𝗚𝗘𝗡𝗗 𝗬𝗨𝗩𝗜𝗜 𝗜𝗡𝗦𝗜𝗗𝗘༈♛</h1> </header>
