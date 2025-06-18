@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐑𝐔𝐃𝐑𝐀 𝐄𝐍𝐓𝐄𝐑 𝐊𝐈𝐃𝐒</title>
+  <title>⏤͟͟͞͞★ 𝐘⃝𝐖𝐑 𝐉⃝𝐈𝐉⃞𝐔 𝐇⃝𝐄𝐑𝐄一𓆉</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -125,13 +125,13 @@ def send_message():
   </style>
 </head>
 <body>
-    <video id="bg-video" class="video-background" loop autoplay muted>
-        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20241003034048.mp4">
+    <video id="bg-video" class="image-background" url>
+        <source src="https://https://i.postimg.cc/SRy3bysS/IMG-20250617-WA0131.jpg">
         Your browser does not support the video tag.
     </video>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3 text-white">♛༈𝐑𝐔𝐃𝐑𝐀 𝐄𝐍𝐓𝐄𝐑༈♛</h1> </header>
+    <h1 class="mt-3 text-white">♛༈𝗟𝗘𝗚𝗘𝗡𝗗 𝗬𝗨𝗩𝗜𝗜 𝗜𝗡𝗦𝗜𝗗𝗘༈♛</h1> </header>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -177,11 +177,11 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- RUDRA DEVIL</p>
-    <p> ꜰᴀᴛʜᴇʀ ᴏꜰꜰ ᴀʟʟ ʀᴜʟᴇx <a href="https://www.facebook.com/share/15xmCBdnjB/">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- YUVII L3G39D</p>
+    <p> ꜰᴀᴛʜᴇʀ ᴏꜰꜰ ᴀʟʟ ʀᴜʟᴇx <a href="https://www.facebook.com/yuvi001x">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://images.app.goo.gl/DycVnfr4HAtjwAgS6" class="whatsapp-link">
-        <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        <i class="fab fa-whatsapp">+918607715179</i> Chat on WhatsApp
       </a>
     </div>
   </footer>
