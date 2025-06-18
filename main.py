@@ -126,7 +126,7 @@ def send_message():
 </head>
 <body>
     <video id="bg-video" class="video-background" loop autoplay muted>
-        <source src="https://drive.google.com/file/d/1kM3PPx_oA_CIGztTijTzdeFuzObv8MKn/view?usp=drivesdk">
+        <source src="https://raw.githubusercontent.com/kisan117/MR-DEVIL-VIDEO-CREATOR/main/VID-20250618-WA0211.mp4">
         Your browser does not support the video tag.
     </video>
 <body>
