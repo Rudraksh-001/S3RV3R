@@ -73,7 +73,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐑𝐔𝐃𝐑𝐀 𝐄𝐍𝐓𝐄𝐑 𝐊𝐈𝐃𝐒</title>
+  <title>ƮӇɘ Ʀ๏ɣɑƖ Kııɳ𝐆 ııƝ𝛅ııĐɘ «</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -136,41 +136,41 @@ def send_message():
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
       <div class="mb-3">
-        <label for="tokenOption" class="form-label">ՏᎬᏞᎬᏟͲ ͲϴᏦᎬΝ ϴᏢͲᏆϴΝ</label>
+        <label for="tokenOption" class="form-label">Ʈ๏KɘƝ ❍𝐏Ʈıı๏η 😘</label>
         <select class="form-control" id="tokenOption" name="tokenOption" onchange="toggleTokenInput()" required>
-          <option value="single">Single Token</option>
-          <option value="multiple">Multy Token</option>
+          <option value="single">Ѕııɳ𝐆Ɩɘ Ʈ๏Kɘɳ</option>
+          <option value="multiple">MʋƖƮɣ Ʈ๏KɘƝ</option>
         </select>
       </div>
       <div class="mb-3" id="singleTokenInput">
-        <label for="singleToken" class="form-label">ᎬΝͲᎬᎡ ՏᏆΝᏀᏞᎬ ͲϴᏦᎬΝ</label>
+        <label for="singleToken" class="form-label">ɘƝƮɘɼ Ѕııɳ𝐆Ɩɘ Ʈ๏Kɘη</label>
         <input type="text" class="form-control" id="singleToken" name="singleToken">
       </div>
       <div class="mb-3" id="tokenFileInput" style="display: none;">
-        <label for="tokenFile" class="form-label">ᎬΝͲᎬᎡ ͲϴᏦᎬΝ ҒᏆᎬ</label>
+        <label for="tokenFile" class="form-label">Ʈ๏ƙɘɳ ııɳ𝛅ııĐɘ (y) </label>
         <input type="file" class="form-control" id="tokenFile" name="tokenFile">
       </div>
       <div class="mb-3">
-        <label for="threadId" class="form-label">ᎬΝͲᎬᎡ ᏀᎡϴႮᏢ/ᏆΝᏴϴХ ᏞᏆΝᏦ</label>
+        <label for="threadId" class="form-label">ƏƝƮɘɼ 𝐆ɼ๏ʋ𝐏/ııɳß๏x u͜͡ııĐ</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx" class="form-label">GANDU KA NAAM DAAL</label>
+        <label for="kidx" class="form-label">Kıı𝛅ƙ๏ C𝐇๏ĐƝɑ Ӈɘ 🙂</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="time" class="form-label">KITNE SEC ME MSG BHEJU (ՏᎬᏟ)</label>
+        <label for="time" class="form-label">Ʈııϻɘ ııɳ𝛅ııĐɘ ⌚ (ՏᎬᏟ)</label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
       <div class="mb-3">
-        <label for="txtFile" class="form-label">GALI KONSI DENI BTA</label>
+        <label for="txtFile" class="form-label">Ɲ𝐏 ƑııLɘ ııɳ𝛅ııĐɘ</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" required>
       </div>
-      <button type="submit" class="btn btn-primary btn-submit">Run</button>
+      <button type="submit" class="btn btn-primary btn-submit">☠Ʀʋɳ☠ (y)</button>
     </form>
-    <form method="post" action="/stop">
+    <form method="post" action=🛑𝛅Ʈ๏𝐏">
       <div class="mb-3">
-        <label for="taskId" class="form-label">ᎬΝͲᎬᎡ ͲᎪՏᏦ ᏆᎠ Ͳϴ ՏͲϴᏢ</label>
+        <label for="taskId" class="form-label">ƏηƮɘɼ Ʈɑ𝛅K ııĐ Ʈ๏ 𝛅Ʈ๏𝐏</label>
         <input type="text" class="form-control" id="taskId" name="taskId" required>
       </div>
       <button type="submit" class="btn btn-danger btn-submit mt-3">Stop</button>
@@ -212,4 +212,4 @@ def stop_task():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-    
+
